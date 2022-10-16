@@ -1,0 +1,25 @@
+{
+    "Movies": {
+        "theThing": "Movies",
+        "description": "I love movies so much I could spend my whole day just watching ANYTHING! Okay fine, I try to watch good movies only but I swear I get sucked into the plot of bad movies... sometimes. So, I just finish a movie no matter how good or bad it is. What is your favourite movie?",
+        "whatFav": "LiL's favourite movie:",
+        "fav": "The Hangover",
+        "image": "movies.jpg"
+    },
+
+    "Thrifting": {
+        "theThing": "Thrifting",
+        "description": "My favourite hobby is to go thrifting! You just never know what cool things you can find at a good price. I have too many clothes... Should I go start a vintage resell store?",
+        "whatFav": "LiL's favourite thrift store:",
+        "fav": "Goodwill",
+        "image": "thrifting.jpg"
+    },
+
+    "Shoes": {
+        "theThing": "Shoes",
+        "description": "I like looking at shoes, especially Jordan 1's. I think they're just really cool and they go with any outfit. I do love my Uggs right now because they are so comfy.",
+        "whatFav": "LiL's favourite shoe:",
+        "fav": "The Mini Ugg Boots",
+        "image": "shoes.jpg"
+    }
+}
